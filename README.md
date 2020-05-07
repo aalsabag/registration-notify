@@ -12,3 +12,4 @@ To execute, you can just run:
 ```
 python check.py -e your_email@email.com -w "https://registrationpage.com"
 ```
+Even if you don't want to setup or use an existing smtp server. It is now configured to make a beeping noise when it detects a change to the registration page.
